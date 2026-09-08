@@ -5,10 +5,10 @@
 ### DevOps Engineer • Infrastructure • Linux • Automation • Observability
 
 <p>
-Administrador de Infraestrutura focado em Linux, DevOps, CI/CD, Observabilidade e Automação.
+Administrador de Infraestrutura focado em Linux, SRE, DevOps, CI/CD, Observabilidade e Automação.
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Linux+Infrastructure;DevOps+Engineer;Docker+%7C+GitLab+CI%2FCD;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Linux+Infrastructure;SRE;DevOps+Engineer;Docker+%7C+GitLab+CI%2FCD;Always+Learning+Something+New"/>
 
 </div>
 
