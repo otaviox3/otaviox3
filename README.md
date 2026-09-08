@@ -1,14 +1,15 @@
 <div align="center">
 
-# Bem vindos ao meu perfil no GitHub.
+# Olá! Seja bem-vindo ao meu perfil no GitHub 👋
 
 ### SRE • DevOps Engineer • Infrastructure • Linux • Automation • Observability
 
 <p>
-Profissional de Infraestrutura, DevOps e SRE, com foco em Linux, automação, CI/CD, observabilidade e confiabilidade de ambientes críticos.
+Profissional de Infraestrutura, DevOps e SRE, com foco em Linux,
+automação, CI/CD, observabilidade e confiabilidade de ambientes críticos.
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Linux+Infrastructure;SRE;DevOps+Engineer;Docker+%7C+GitLab+CI%2FCD;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Linux+Infrastructure;Site+Reliability+Engineering;DevOps+Engineer;Automation+%26+CI%2FCD;Observability;Always+Learning+Something+New"/>
 
 </div>
 
