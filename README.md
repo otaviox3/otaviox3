@@ -2,7 +2,7 @@
 
 # Bem vindos ao meu perfil no GitHub.
 
-### DevOps Engineer • Infrastructure • Linux • Automation • Observability
+### SRE • DevOps Engineer • Infrastructure • Linux • Automation • Observability
 
 <p>
 Administrador de Infraestrutura focado em Linux, SRE, DevOps, CI/CD, Observabilidade e Automação.
