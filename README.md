@@ -16,11 +16,9 @@ Administrador de Infraestrutura focado em Linux, SRE, DevOps, CI/CD, Observabili
 
 # 💼 Sobre mim
 
-Sou profissional de Infraestrutura, DevOps e SRE, apaixonado por automação, observabilidade, confiabilidade e administração de ambientes Linux.
+Infraestrutura | DevOps | SRE
 
-Atuo na gestão e sustentação de ambientes corporativos de missão crítica, com foco em disponibilidade, desempenho, segurança e resiliência. Minha experiência envolve engenharia de confiabilidade (SRE), infraestrutura, pipelines CI/CD, monitoramento e observabilidade, troubleshooting, automação de processos e melhoria contínua.
-
-Busco transformar operações complexas em ambientes mais estáveis, automatizados, observáveis e escaláveis, aplicando práticas de DevOps e SRE para reduzir falhas, otimizar processos e aumentar a confiabilidade dos serviços.
+Profissional de Infraestrutura, DevOps e SRE com experiência na administração e sustentação de ambientes Linux e sistemas de missão crítica. Atuação focada em confiabilidade, automação, observabilidade, CI/CD, troubleshooting e melhoria contínua, buscando construir operações mais resilientes, eficientes e escaláveis.
 
 ### Principais atividades
 
